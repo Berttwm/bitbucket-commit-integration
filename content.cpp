@@ -31,6 +31,6 @@ int main() {
         cout << "ttoqk";
         cout << "pyqiu";
         cout << "andri";
-        cout << "vuhhu";
+        cout << "lsyik";
 return 0;
 }
