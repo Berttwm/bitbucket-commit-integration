@@ -13,6 +13,6 @@ int main() {
         cout << "hpnoi";
         cout << "wsopl";
         cout << "ruovm";
-        cout << "glsgr";
+        cout << "tnkrb";
 return 0;
 }
