@@ -61,6 +61,5 @@ int main() {
         cout << "buatx";
         cout << "ujfnc";
         cout << "lrjsp";
-        cout << "qnpwg";
 return 0;
 }
