@@ -57,6 +57,5 @@ int main() {
         cout << "wnoun";
         cout << "wqvoi";
         cout << "sogex";
-        cout << "ecfol";
 return 0;
 }
