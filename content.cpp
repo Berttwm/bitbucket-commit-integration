@@ -67,6 +67,5 @@ int main() {
         cout << "cyqra";
         cout << "bidql";
         cout << "pxiny";
-        cout << "aklfw";
 return 0;
 }
