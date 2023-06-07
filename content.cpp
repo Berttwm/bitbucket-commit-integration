@@ -58,6 +58,5 @@ int main() {
         cout << "wqvoi";
         cout << "sogex";
         cout << "yrrlh";
-        cout << "vxixy";
 return 0;
 }
